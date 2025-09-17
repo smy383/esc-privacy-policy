@@ -16,7 +16,7 @@
 - English: https://smy383.github.io/esc-privacy-policy/privacy-policy-en.html
 
 ## 📅 업데이트 내역
-- 2024-09-17: 초기 개인정보처리방침 작성
+- 2025-09-17: 초기 개인정보처리방침 작성
 
 ## 📞 문의
-개인정보 관련 문의사항이 있으시면 GitHub Issues를 통해 연락해 주세요.
+개인정보 관련 문의사항이 있으시면 이메일(thewinnerple@gmail.com)을 통해 연락해 주세요.

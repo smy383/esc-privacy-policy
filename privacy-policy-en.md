@@ -2,7 +2,7 @@
 
 **E.S.C (Escape Story Community)**
 
-Effective Date: September 17, 2024
+Effective Date: September 17, 2025
 
 ---
 
@@ -210,8 +210,8 @@ Data subjects can report personal information violations to the following instit
 This privacy policy is applied from the effective date, and when there are additions, deletions, and corrections according to laws and policies, changes will be announced through notices at least 7 days before the implementation of changes.
 
 ### 12.2 Version Management
-- **First announcement date**: September 17, 2024
-- **Effective date**: September 17, 2024
+- **First announcement date**: September 17, 2025
+- **Effective date**: September 17, 2025
 
 ---
 
@@ -237,4 +237,4 @@ Data subjects have the right to refuse international transfer of personal inform
 
 ---
 
-*This Privacy Policy is effective from September 17, 2024.*
+*This Privacy Policy is effective from September 17, 2025.*
