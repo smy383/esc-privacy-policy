@@ -170,13 +170,13 @@ This service implements the following technical, administrative, and physical me
 ## 10. Personal Information Protection Officer
 
 ### 10.1 Personal Information Protection Officer
-- **Name**: smy383
-- **Contact**: GitHub Issues (https://github.com/smy383/esc-privacy-policy/issues)
+- **Name**: mogee
+- **Contact**: thewinnerple@gmail.com
 
 ### 10.2 Personal Information Protection Manager
 To take overall responsibility for personal information processing and handle complaints and damage relief related to personal information processing, we designate a personal information protection manager as follows.
 
-For inquiries related to personal information protection, please contact us through GitHub Issues.
+For inquiries related to personal information protection, please contact us via email (thewinnerple@gmail.com).
 
 ---
 
