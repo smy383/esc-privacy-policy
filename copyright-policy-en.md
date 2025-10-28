@@ -1,6 +1,6 @@
 # Copyright Policy
 
-**E.S.C (Escape Story Community)**
+**웹빵 (Webbang)**
 
 Effective Date: October 28, 2025
 
@@ -8,7 +8,7 @@ Effective Date: October 28, 2025
 
 ## 1. Purpose of Copyright Policy
 
-E.S.C establishes this Copyright Policy to respect and protect the creative works and intellectual property rights of all creators. This policy protects members' copyrights in accordance with copyright law and related regulations, and defines prompt response procedures when copyright infringement occurs.
+웹빵 establishes this Copyright Policy to respect and protect the creative works and intellectual property rights of all creators. This policy protects members' copyrights in accordance with copyright law and related regulations, and defines prompt response procedures when copyright infringement occurs.
 
 ---
 
@@ -16,7 +16,7 @@ E.S.C establishes this Copyright Policy to respect and protect the creative work
 
 ### 2.1 Member-Generated Content
 
-- Members retain copyright ownership of all content (escape room games, posts, comments, reviews, etc.) they create and publish within the E.S.C service.
+- Members retain copyright ownership of all content (escape room games, posts, comments, reviews, etc.) they create and publish within the 웹빵 service.
 - The Company does not claim ownership of member content.
 
 ### 2.2 License for Service Use
@@ -36,7 +36,7 @@ This license is:
 ### 2.3 Company-Owned Content
 
 Copyright for the following items belongs to the Company:
-- E.S.C service design, logo, and trademarks
+- 웹빵 service design, logo, and trademarks
 - Service interface and features
 - Templates and tools provided by the Company
 - Official documents and guides written by the Company
@@ -200,7 +200,7 @@ Counter-notices must include the following information:
 
 ## 7. DMCA (Digital Millennium Copyright Act) Compliance
 
-E.S.C complies with the U.S. Digital Millennium Copyright Act (DMCA).
+웹빵 complies with the U.S. Digital Millennium Copyright Act (DMCA).
 
 ### 7.1 DMCA Agent
 
@@ -322,7 +322,7 @@ For copyright-related inquiries, please contact:
 
 ---
 
-**E.S.C respects and protects the creative activities of all creators. Copyright protection is essential for a healthy creative ecosystem. We appreciate your active cooperation.**
+**웹빵 respects and protects the creative activities of all creators. Copyright protection is essential for a healthy creative ecosystem. We appreciate your active cooperation.**
 
 ---
 

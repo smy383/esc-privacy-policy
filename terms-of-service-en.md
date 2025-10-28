@@ -1,6 +1,6 @@
 # Terms of Service
 
-**E.S.C (Escape Story Community)**
+**웹빵 (Webbang)**
 
 Effective Date: October 28, 2025
 
@@ -8,7 +8,7 @@ Effective Date: October 28, 2025
 
 ## Article 1 (Purpose)
 
-These Terms of Service (the "Terms") govern the rights, obligations, and responsibilities between mogee (hereinafter "Company") and users regarding the use of E.S.C (Escape Story Community, hereinafter "Service") provided by the Company.
+These Terms of Service (the "Terms") govern the rights, obligations, and responsibilities between mogee (hereinafter "Company") and users regarding the use of 웹빵 (Webbang, hereinafter "Service") provided by the Company.
 
 ---
 

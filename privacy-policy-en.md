@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**E.S.C (Escape Story Community)**
+**웹빵 (Webbang)**
 
 Effective Date: September 17, 2025
 
@@ -8,7 +8,7 @@ Effective Date: September 17, 2025
 
 ## 1. Purpose of Processing Personal Information
 
-E.S.C (hereinafter "Service") processes personal information for the following purposes:
+웹빵 (hereinafter "Service") processes personal information for the following purposes:
 
 ### 1.1 Member Registration and Management
 - Identity verification and personal identification for membership services

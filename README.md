@@ -1,9 +1,9 @@
-# E.S.C (Escape Story Community) 법적 문서
+# 웹빵 (Webbang) 법적 문서
 
-이 저장소는 E.S.C (Escape Story Community) 모바일 애플리케이션의 법적 문서 및 정책을 공개적으로 관리하기 위한 공간입니다.
+이 저장소는 웹빵 (Webbang) 모바일 애플리케이션의 법적 문서 및 정책을 공개적으로 관리하기 위한 공간입니다.
 
 ## 📱 서비스 정보
-- **서비스명**: E.S.C (Escape Story Community)
+- **서비스명**: 웹빵 (Webbang)
 - **운영자**: 모지 (mogee)
 - **서비스 유형**: 방탈출 게임 제작 및 플레이 커뮤니티 플랫폼
 
@@ -54,4 +54,4 @@
 
 ---
 
-**© 2025 E.S.C (Escape Story Community). All rights reserved.**
+**© 2025 웹빵 (Webbang). All rights reserved.**

@@ -1,6 +1,6 @@
 # Community Guidelines
 
-**E.S.C (Escape Story Community)**
+**웹빵 (Webbang)**
 
 Effective Date: October 28, 2025
 
@@ -8,7 +8,7 @@ Effective Date: October 28, 2025
 
 ## 1. Purpose of Guidelines
 
-E.S.C establishes these Community Guidelines to create a safe and enjoyable community for all escape room game enthusiasts. All members must comply with these guidelines, and violations may result in service restrictions.
+웹빵 establishes these Community Guidelines to create a safe and enjoyable community for all escape room game enthusiasts. All members must comply with these guidelines, and violations may result in service restrictions.
 
 ---
 
@@ -284,7 +284,7 @@ For inquiries about these guidelines or to report violations, please contact:
 
 ---
 
-**E.S.C strives to create a community where all members can create and communicate enjoyably and safely. We appreciate your active participation and cooperation.**
+**웹빵 strives to create a community where all members can create and communicate enjoyably and safely. We appreciate your active participation and cooperation.**
 
 ---
 
